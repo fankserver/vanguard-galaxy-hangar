@@ -1,4 +1,4 @@
-# Vanguard Galaxy Hangar (VGHangar)
+# Hangar (VGHangar)
 
 A BepInEx plugin for [Vanguard Galaxy](https://store.steampowered.com/app/3471800/) that overhauls the hangar UI. Replaces the default arrow-based ship carousel with a scrollable, filterable list — making fleets of dozens of ships actually browsable.
 
@@ -23,7 +23,7 @@ The plugin is purely additive UI — no game logic, no save data, no balance cha
    ```
 5. **Launch the game.** Open the BepInEx console — you should see a load line ending with the number of Harmony patches applied, e.g.:
    ```
-   [Info :Vanguard Galaxy Hangar] Vanguard Galaxy Hangar v0.1.0 loaded (1 patches)
+   [Info :Hangar] Hangar v0.1.0 loaded (1 patches)
    ```
 
 ## Uninstall

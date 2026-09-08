@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>VGHangar</AssemblyName>
-    <Product>Vanguard Galaxy Hangar</Product>
+    <Product>Hangar</Product>
     <Version>0.1.0</Version>
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
