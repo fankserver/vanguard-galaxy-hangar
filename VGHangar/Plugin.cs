@@ -11,7 +11,7 @@ namespace VGHangar;
 public class Plugin : BaseUnityPlugin
 {
     public const string PluginGuid = "vghangar";
-    public const string PluginName = "Vanguard Galaxy Hangar";
+    public const string PluginName = "Hangar";
     // BepInEx parses PluginVersion through System.Version which rejects SemVer
     // pre-release suffixes, so stick to the plain N.N.N form.
     public const string PluginVersion = "0.2.0";
